@@ -4,16 +4,16 @@
 **Exam section:** 2 – Control Flow: Conditional Blocks and Loops (23%, 8 items)
 
 ### What the exam expects (official syllabus, paraphrased)
-- [ ] **2.1.1** – `if` and `if-else`; conditions from Boolean expressions
-- [ ] **2.1.1** – Trace which branch runs; recognize when a block is skipped
-- [ ] **2.1.2** – `if-elif` and `if-elif-else` with a fallback
-- [ ] **2.1.2** – Conditions are evaluated in order until one matches
-- [ ] **2.1.2** – Trace multi-branch structures
-- [ ] **2.1.2** – Recognize misordered, redundant or unreachable branches
-- [ ] **2.1.3** – Multiple conditional statements in one program
-- [ ] **2.1.3** – Nested conditionals
-- [ ] **2.1.3** – Combined Boolean expressions in conditions
-- [ ] **2.1.3** – Trace compound structures; identify unreachable, redundant or misordered branches
+- `if` and `if-else`; conditions from Boolean expressions
+- Trace which branch runs; recognize when a block is skipped
+- `if-elif` and `if-elif-else` with a fallback
+- Conditions are evaluated in order until one matches
+- Trace multi-branch structures
+- Recognize misordered, redundant or unreachable branches
+- Multiple conditional statements in one program
+- Nested conditionals
+- Combined Boolean expressions in conditions
+- Trace compound structures; identify unreachable, redundant or misordered branches
 
 ---
 
