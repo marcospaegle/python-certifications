@@ -4,11 +4,11 @@
 **Exam section:** 1 – Computer Programming and Python Fundamentals
 
 ### What the exam expects (official syllabus, paraphrased)
-- [ ] **1.4.2** – Display values with `print()`
-- [ ] **1.4.2** – Read input with `input()`, which returns a string
-- [ ] **1.4.2** – Convert with `int()`, `float()`, `str()`
-- [ ] **1.4.2** – Convert input before processing it
-- [ ] **1.4.2** – Combine input, conversion, processing and output in a simple program
+- Display values with `print()`
+- Read input with `input()`, which returns a string
+- Convert with `int()`, `float()`, `str()`
+- Convert input before processing it
+- Combine input, conversion, processing and output in a simple program
 
 ---
 
